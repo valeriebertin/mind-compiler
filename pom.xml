@@ -6,7 +6,7 @@
     <parent>
         <groupId>org.ow2.mind</groupId>
         <artifactId>mind-parent</artifactId>
-        <version>6</version>
+        <version>7-SNAPSHOT</version>
     </parent>
 
     <artifactId>mind-compiler</artifactId>
